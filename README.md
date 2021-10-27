@@ -19,9 +19,9 @@
   To use this app, you will want to click the 'Get Started' button and it will bring you to a new page. Here, you can click on the 'New Title' area and type in a title for the note followed by typing in a description of the note below in the 'Note Text' section. After you are satisfied, click the save button in the top right of the page to save it in the column on the left. Multiple notes can be saved and once a note has served its purpose, just click the trash can next to the note title to delete it. 
 
   See Below for a screenshot of the application.
-  (E:\School Stuff\Homework\Note-Taker\Images\note-taker-app-homescreen.PNG)
-  (E:\School Stuff\Homework\Note-Taker\Images\note-taker-app.PNG)
-  (E:\School Stuff\Homework\Note-Taker\Images\note-taker-app-looking-at-a-stored-note.PNG)
+  (/Images/note-taker-app-homescreen.PNG)
+  (/Images/note-taker-app.PNG)
+  (/Images/note-taker-app-looking-at-a-stored-note.PNG)
 
 
   ## Credits
