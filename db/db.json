@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "title": "I am New Note 1",
+        "text": "I am a placeholder for any notes a future user would store here.",
+        "id": "ff4a"
+    },
+    {
+        "title": "I am New Note 2",
+        "text": "I am also a placeholder like my brother New Note 1\n",
+        "id": "5f10"
+    },
+    {
+        "title": "I am New Note 3",
+        "text": "I am the third placeholder like my brothers Note 1 & 2. ",
+        "id": "5553"
+    }
+]
